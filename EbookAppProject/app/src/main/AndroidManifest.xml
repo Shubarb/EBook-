@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ebookappproject">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/images"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/images"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.EbookAppProject">
+        <activity
+            android:name=".MainFirst"
+            android:exported="true" />
+        <activity
+            android:name=".MainThird"
+            android:exported="true" />
+        <activity
+            android:name=".TruyenCoTich.TruyenCoTich_Nd_Activity"
+            android:exported="true" />
+        <activity
+            android:name=".TruyenCuoi.TruyenCuoiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainSecond"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

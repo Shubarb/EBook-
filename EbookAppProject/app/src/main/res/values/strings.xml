@@ -1,0 +1,469 @@
+<resources>
+    <string name="app_name">EbookAppProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_App">App</string>
+    <string name="nav_In4">Information</string>
+    <string name="nav_MyBook">My Bookshelf</string>
+    <string name="nav_Note">My Note</string>
+    <string name="nav_Information">Book</string>
+    <string name="nav_ProfileProducer">Trần Viết Quang_19021507</string>
+    <string name="nav_ProfileProducer2">Trần Minh Đức _19021437 </string>
+    <string name="nav_Download">Download</string>
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+
+    <string name="Phan2">Có người thư sinh nọ quen thói ba hoa khoác lác, từng nói với bạn mình rằng:
+\n<br></br><br>
+"<i>Từ cổ chí kim, thánh nhân chính là những người khó tìm nhất. Năm xưa kể từ lúc Bàn Cổ vương khai thiên lập địa, vạn vật sống trên đời không ai có thể so với ngài. Cho nên ngài được tính là người thứ nhất\n</i>". \n </br>
+\n<br></br><br>
+    Nói xong câu này, thư sinh giơ lên 1 ngón tay để xác nhận. \n</br>
+<br>
+    "<i>Sau đó là tới Khổng Tử, người am hiểu thi thư lễ nhạc, được mệnh danh là thầy của vạn nhà, không ai dám bất kính. Ngài được tính là người thứ hai.\n</i>" – thư sinh lại giơ thêm một ngón tay, tỏ ý đang đếm.\n</br>
+\n<br></br>\n<br></br>
+Thư sinh nói tiếp:
+\n<br></br>
+        <br>"<i>Từ sau hai người này, không còn có ai đủ khiến tôi cảm thấy nể phục…</i>".\n </br>
+\n<br></br>\n<br></br>
+Thế nhưng chỉ sau vài giây chần chừ, người này lại hớn hở quay sang khẳng định với bạn mình:
+\n<br></br>\n<br></br>
+        "<i>Anh thấy tôi nói có đúng không? Bậc thánh nhân trên đời quả nhiên rất ít, tính cả tôi mới có đúng 3 người</i>".</string>
+
+
+    <string name="Phan1"> Gia đình phú ông có một người con trai, tuy đã lớn nhưng đầu óc chậm chạp, lại thường xuyên tiêu tiền hoang phí. Vì muốn con mình nên người, phú ông liền nói:
+\n\n<br></br><br>
+            "<i>Con có lớn mà không có khôn, thậm chí còn chẳng phân biệt được hạt kê và hạt lúa. Ta muốn để con ra ngoài học hỏi thì mới mong có ngày khá được</i>".\n</br>
+\n<br></br><br>
+            Người con trai nghe vậy cũng đồng ý. Sau khi rời nhà, anh gặp một người thợ đang tạc hai con sư tử đá.\n</br>
+\n<br></br>
+Nhìn dáng vẻ của hai bức tượng, cậu con trai thích chí vô cùng, ngỏ ý muốn mua. Người thợ kia cũng biết cậu ngốc nghếch, bèn cố tình hét giá:
+\n<br></br><br>
+            "<i>Con sư tử nhỏ giá 3000 lạng vàng, con sư tử lớn thì 5000 lạng</i>"./n</br>
+\n<br></br><br>
+            Cậu con trai thản nhiên gật đầu, yêu cầu người đó đem tượng đến nhà mình, người kia liền mang theo bức tượng sư tử nhỏ về trước. Khi về tới nhà, cậu vội vàng khoe với cha rằng mình mua được đồ tốt.\n</br>
+\n<br></br>
+Tới khi nhìn thấy tượng con sư tử đá bình thường mà bị hét giá lên tới mấy ngàn lượng vàng, người cha không khỏi than trời mà nói:
+\n<br></br><br>
+            "<i>Con bỏ ra số tiền lớn như vậy để mua thứ đồ vô dụng này, thật đúng là đứa con phá gia chi tử. Chẳng trách vì sao mọi người thường bảo ta thế nào cũng gặp báo ứng</i>"./n</br>
+\n<br></br><br>
+            Cậu con trai nghe xong lập tức vỗ tay cười lớn:\n</br>
+\n<br></br><br>
+            "<i>Con nói cha nghe, đây mới chỉ là báo ứng nhỏ thôi, còn một báo ứng lớn đang chờ phía sau kia kìa</i>".\n</br></string>
+
+
+    <string name="Phan3">Một người đi chợ, mua được con lợn. Dọc đường về, trời nắng, đang định vào quán bên đường uống nước thì gặp một chú lính lệ. Chú lính lệ hỏi:
+\n<br></br><br>
+            – Anh kia, con lợn giá bao nhiêu?</br>
+\n<br></br><br>
+            Anh ta thấy thầy quyền cũng chú ý đến mình và con lợn, liền lễ phép trả lời:</br>
+\n<br></br><br>
+            – Dạ, hơn quan đấy ạ.</br>
+\n<br></br><br>
+            Tên lính liền cho anh ta một bạt tai, rồi mắng:</br>
+\n<br></br><br>
+            – Mày láo! Dám nói lợn hơn quan à?</br>
+\n<br></br><br>
+            – Dạ, tôi lỡ lời!</br>
+\n<br></br><br>
+            Anh van lạy mãi, chú lính mới tha cho. Đi một đoạn lại gặp chú khách. Chú khách lại hỏi giá con lợn. Đang ấm ức trong lòng, anh ta liền bảo:</br>
+\n<br></br><br>
+            – Mới bị một vố trắng răng ra rồi, tôi không nói.</br>
+\n<br></br><br>
+            Cho là anh ta hỗn xược, chú khách đánh cho một gậy bảo:</br>
+\n<br></br><br>
+            – Mày lại chế nhạo ta trắng răng à?</br>
+\n<br></br><br>
+            Anh ta bỏ chạy thục mạng, nghĩ rằng chơi với những chú khách thế này, chỉ có thiệt thân. Về gần đến đầu làng, anh ta gặp hai ông sư và một chú tiểu đang từ chùa đi ra. Chú tiểu hỏi giá lợn, anh ta càu nhàu:</br>
+\n<br></br><br>
+            – Trọc này là ba trọc (ba lượt) rồi, tôi không nói nữa.</br>
+\n<br></br><br>
+            Chú tiểu đỏ mặt, đấm anh ta, cho là anh ta nhạo sư. Nhưng anh ta cãi: “Chứ không ba trọc à?” rồi đi thẳng vào làng.</br></string>
+
+
+    <string name="Phan4">
+Truyện kể rằng nhà nọ có ba ông cháu. Hôm nọ, ông sai người cháu đi ra chợ mua giúp ông một đồng mắm và một đồng tương. Thằng bé vâng lời ông mang hai cái bát ra chợ mua. Nhưng đi một lúc, mới sực nhớ ra và quay về nhà để hỏi ông đồng nào mua mắm, đồng nào mua tương. Người ông bảo rằng đồng nào mua cũng được. Thế là thằng bé lại chạy đi ra chợ, một hồi lâu, lại trở về nhà với hai cái bát không trên tay và lại tiếp tục hỏi người ông xem bát nào đựng mắm và bát nào đựng tương.
+        \n<br></br><br>
+        Người ông nổi giận đánh cho nó mấy roi. Vừa lúc đó bố thằng bé đi đâu về nhà, thấy thằng bé bị ông đánh nên nổi giận rồi nói rằng: </br>
+        \n<br></br><br>
+        “À! Ông đánh con tôi phải không? Thế thì sợ gì mà tôi không đánh lại con của ông!”</br>
+        \n<br></br><br>
+        Nói rồi tự đánh vào mình một trận nên thân. Người ông chứng kiến xong lại phát khùng lên quát: </br>
+        \n<br></br><br>
+        “À! Mày đánh con ông thì…thì ông treo cổ của cha mày lên”. </br>
+        \n<br></br><br>
+        Nói xong ông vội vàng đi tìm dây thừng để treo cổ.</br>
+\n<br></br><br>
+        Bài học rút ra: Tam đại con gà là một trong những câu truyện cười dân gian châm biếm được nhiều người tìm đọc nhất. Câu truyện phê phán hành động tức cười của một ông thày đồ “dốt đặc” mà vẫn còn cố tình giấu dốt. Dù có cố gắng giấu như thế nào đi nữa thì càng giấu lại càng lộ cái dốt ra. Cũng thông qua câu truyện này người dân muốn lên án phê phán chê bai một tật xấu của một số người trong xã hội đó chính là không chịu học hỏi trau dồi kiến thức mà lúc nào cũng tự cho ta đây là tài giỏi nhất mặc dù bản thân không biết gì.</br>
+</string>
+
+    <string name="TamCam">Ngày xửa ngày xưa, có hai chị em cùng cha khác mẹ, chị tên là Tấm, em tên là Cám. Mẹ Tấm mất sớm, sau đó mấy năm cha Tấm cũng qua đời, Tấm ở với dì ghẻ là mẹ Cám. Bà mẹ kế này rất cay nghiệt, bắt Tấm phải làm hết mọi việc nặng nhọc từ việc nhà đến việc chăn trâu cắt cỏ. Trong khi đó Cám được nuông chiều không phải làm gì cả.
+\n
+Một hôm bà ta cho hai chị em mỗi người một cái giỏ bảo ra đồng xúc tép, còn hứa "Hễ đứa nào bắt được đầy giỏ thì thưởng cho một cái yếm đỏ". Ra đồng, Tấm chăm chỉ bắt được đầy giỏ, còn Cám thì mải chơi nên chẳng bắt được gì.
+\n
+Thấy Tấm bắt được một giỏ đầy, Cám bảo chị :
+\n\n
+- Chị Tấm ơi, chị Tấm! Đầu chị lấm, chị hụp cho sâu, kẻo về mẹ mắng.
+\n\n
+Tin là thật, Tấm bèn xuống ao lội ra chỗ sâu tắm rửa. Cám thừa dịp trút hết tép của Tấm vào giỏ của mình rồi ba chân bốn cẳng về trước. Lúc Tấm bước lên chỉ còn giỏ không, bèn ngồi xuống bưng mặt khóc hu hu. Nghe tiếng khóc của Tấm, Bụt liền hiện lên hỏi :
+\n\n
+- Làm sao con khóc ?
+\n\n<br></br><br>
+            Tấm kể lể sự tình cho Bụt nghe, Bụt bảo:</br>
+\n\n<br></br><br>
+            - Thôi con hãy nín đi ! Con thử nhìn vào giỏ xem còn có gì nữa không?</br>
+\n\n<br></br><br>
+            Tấm nhìn vào giỏ rồi nói : </br>
+        \n\n<br></br><br>
+            - Chỉ còn một con cá bống.</br>
+\n\n<br></br><br>
+            - Con đem con cá bống ấy về thả xuống giếng mà nuôi. Mỗi bữa, đáng ăn ba bát thì con ăn hai còn một đem thả xuống cho bống. Mỗi lần cho ăn con nhớ gọi như thế này:</br>
+\n\n<br></br><br>
+            Bống bống bang bang</br>
+\n<br></br><br>
+            Lên ăn cơm vàng cơm bạc nhà ta</br>
+\n<br></br><br>
+            Chớ ăn cơm hẩm cháo hoa nhà người.</br>
+\n\n<br></br><br>
+            Không gọi đúng như thế thì nó không lên, con nhớ lấy !</br>
+\n\n<br></br><br>
+            Nói xong Bụt biến mất. Tấm theo lời Bụt thả bống xuống giếng. Rồi từ hôm ấy trở đi, cứ mỗi bữa ăn, Tấm đều để dành cơm, giấu đưa ra cho bống. Mỗi lần nghe Tấm gọi, bống lại ngoi lên mặt nước đớp những hạt cơm của Tấm ném xuống. Người và cá ngày một quen nhau, và bống ngày càng lớn lên trông thấy.</br>
+\n\n<br></br><br>
+            Thấy Tấm sau mỗi bữa ăn thường mang cơm ra giếng, mụ dì ghẻ sinh nghi, bèn bảo Cám đi rình. Cám nấp ở bụi cây bên bờ giếng nghe Tấm gọi bống, bèn nhẩm lấy cho thuộc rồi về kể lại cho mẹ nghe. Tối hôm ấy mụ dì ghẻ lấy giọng ngọt ngào bảo với Tấm:</br>
+\n\n<br></br><br>
+            - Con ơi con! Làng đã bắt đầu cấm đồng rồi đấy. Mai con đi chăn trâu, phải chăn đồng xa, chớ chăn đồng nhà, làng bắt mất trâu.</br>
+\n\n<br></br><br>
+            Tấm vâng lời, sáng hôm sau đưa trâu đi ăn thật xa. Ở nhà, mẹ con Cám mang bát cơm ra giếng cũng gọi bống lên ăn y như Tấm gọi. Nghe lời gọi, bống ngoi lên mặt nước. Mẹ Cám đã chực sẵn, bắt lấy bống đem về nhà làm thịt.</br>
+\n\n<br></br><br>
+            Đến chiều Tấm dắt trâu về, sau khi ăn xong Tấm lại mang bát cơm để dành ra giếng, Tấm gọi nhưng chả thấy bống ngoi lên như mọi khi. Tấm gọi mãi, gọi mãi, cuối cùng chỉ thấy cục máu nổi lên mặt nước. Biết là có sự chẳng lành cho bống, Tấm òa lên khóc. Bụt lại hiện lên hỏi:</br>
+\n\n<br></br><br>
+            - Con làm sao lại khóc ?</br>
+\n\n<br></br><br>
+            Tấm kể sự tình cho Bụt nghe, Bụt bảo:</br>
+\n\n<br></br><br>
+            - Con bống của con, người ta đã ăn thịt mất rồi. Thôi con hãy nín đi ! Rồi về nhặt xương nó, kiếm bốn cái lọ bỏ vào, đem chôn xuống dưới bốn chân giường con nằm.</br>
+\n\n<br></br><br>
+            Tấm trở về theo lời Bụt đi tìm xương bống, nhưng tìm mãi các xó vườn góc sân mà không thấy đâu cả. Một con gà thấy thế, bảo Tấm :</br>
+\n\n<br></br><br>
+            - Cục ta cục tác ! Cho ta nắm thóc, ta bưới xương cho !</br>
+\n\n<br></br><br>
+            Tấm bốc nắm thóc ném cho gà. Gà chạy vào bếp bới một lúc thì thấy xương ngay. Tấm bèn nhặt lấy bỏ vào lọ và đem chôn dưới chân giường như lời bụt dặn.</br>
+\n\n<br></br>
+Ít lâu sau nhà vua mở hội trong mấy đêm ngày. Già trẻ gái trai các làng đều nô nức đi xem, trên các nẻo đường, quần áo mớ ba mớ bẩy dập dìu tuôn về kinh như nước chảy. Hai mẹ con Cám cũng sắm sửa quần áo đẹp để đi trẩy hội. Thấy Tấm cũng muốn đi, mụ dì ghẻ nguýt dài, sau đó mụ lấy một đấu gạo trộn lẫn với một đấu thóc, bảo Tấm:
+\n\n<br></br>
+- Khi nào nhặt riêng gạo và thóc ra hai đấu thì mới được đi xem hội.
+\n\n<br></br>
+Nói đoạn, hai mẹ con quần áo xúng xính lên đường. Tấm tủi thân òa lên khóc. Bụt lại hiện lên hỏi:
+\n\n<br></br>
+- Làm sao con khóc?
+\n\n<br></br>
+Tấm chỉ vào cái thúng, thưa:
+\n\n<br></br>
+- Dì con bắt phải nhặt thóc ra thóc, gạo ra gạo, rồi mới được đi xem hội, lúc nhặt xong thì hội đã tan rồi còn gì mà xem.
+\n\n<br></br>
+Bụt bảo: - Con đừng khóc nữa. Con mang cái thúng đặt ra giữa sân, để ta sai chim sẻ xuống nhặt giúp.
+\n\n<br></br>
+- Nhưng ngộ nhỡ chim sẻ ăn mất thì khi về con vẫn cứ bị đòn.
+\n\n<br></br>
+- Con cứ bảo chúng nó thế này:
+\n\n<br></br>
+Rặt rặt (con chim sẻ) xuống nhặt cho tao
+\n\n<br></br>
+Ăn mất hạt nào thì tao đánh chết
+\n\n<br></br>
+Thì chúng nó sẽ không ăn của con đâu.
+\n\n<br></br>
+Bụt vừa dứt lời, ở trên không có một đàn chim sẻ đáp xuống sân nhặt thóc ra một đằng, gạo ra một nẻo. Chúng nó lăng xăng ríu rít chỉ trong một lát đã làm xong, không suy suyển một hạt. Nhưng khi chim sẻ bay đi rồi, Tấm lại nức nở khóc. Bụt lại bảo:
+\n\n<br></br>
+- Con làm sao lại khóc?
+\n\n<br></br>
+- Con rách rưới quá, người ta không cho con vào xem hội.
+\n\n<br></br>
+- Con hãy đào những cái lọ xương bống đã chôn ngày trước lên thì sẽ có đủ thứ cho con trẩy hội.
+\n\n<br></br>
+Tấm vâng lời, đi đào các lọ lên. Đào lọ thứ nhất lấy ra được một cái áo mớ ba, một cái áo xống lụa, một cái yếm lụa điều và một cái khăn nhiễu. Đào lọ thứ hai lấy ra được một đôi hài thêu. Đào lọ thứ ba thì thấy một con ngựa bé tí, nhưng vừa đặt con ngựa xuông đất bỗng chốc nó đã hí vang lên và biến thành ngựa thật. Đào đến lọ cuối cùng thì lấy ra được một bộ yên cương xinh xắn.Tấm mừng quá vội tắm rửa rồi thắng bộ vào, đoạn cưỡi lên ngựa mà đi. Ngựa phóng một chốc đã đến kinh đô. Nhưng khi phóng qua một cây cầu đá, Tấm đánh rơi một chiếc hài xuống nước, không cách nào mò lên được.
+\n\n<br></br>
+Khi đoàn xa giá chở vua đi qua cầu, con voi ngự bỗng nhiên cắm ngà xuống đất kêu rống lên, không chịu đi. Vua sai quân lính xuống nước thử tìm xem, họ mò được một chiếc hài thêu rất tinh xảo và xinh đẹp. Vua ngắm nghía chiếc hài hồi lâu rồi hạ lệnh cho rao mời tất cả đám đàn bà con gái xem hội ướm thử, hễ ai đi vừa chiếc giầy thì vua sẽ lấy làm vợ.
+\n\n<br></br>
+Đám hội lại càng náo nhiệt vì các bà, các cô chen nhau đến chỗ thử giầy. Cô nào cô ấy lần lượt kéo vào ngôi lầu giữa bãi cỏ rộng để ướm một tí cầu may. Nhưng chẳng có một chân nào đi vừa cả. Mẹ con Cám cũng trong số đó. Khi Cám và dì ghẻ bước ra khỏi lầu thì gặp Tấm, Cám mách mẹ:
+\n\n<br></br>
+- Mẹ ơi, ai như chị Tấm cũng đi thử hài đấy!
+\n\n<br></br>
+Mụ dì ghẻ bĩu môi:
+\n\n<br></br>
+- Chuông khánh còn chẳng ăn ai, nữa là mảnh chĩnh vứt ngoài bờ tre!
+\n\n<br></br>
+Nhưng khi Tấm đặt chân vào hài thì vừa như in. Nàng mở khăn lấy luôn chiếc thứ hai đi vào. Hai chiếc hài giống nhau như đúc. Bọn lính hầu hò reo vui mừng. Lập tức vua sai đoàn tỳ nữ rước nàng vào cung. Tấm bước lên kiệu trước con mắt ngạc nhiên và hằn học của mẹ con Cám.
+\n\n<br></br>
+Tuy sống sung sướng trong hoàng cung. Tấm vẫn không quên ngày giỗ cha. Nàng xin phép vua trở về nhà để soạn cỗ cúng giúp dì. Mẹ con Cám thấy Tấm sung sướng thì ghen ghét để bụng. Nay thấy Tấm về, lòng ghen ghét lại bùng bốc lên. Nghĩ ra được một mưu, mụ dì ghẻ bảo Tấm:
+\n\n<br></br>
+- Trước đây con quen trèo cau, con hãy trèo lên xé lấy một buồng cau để cúng bố.
+\n\n<br></br>
+Tấm vâng lời trèo lên cây cau, lúc lên đến sát buồng thì ở dưới này mụ dì ghẻ cầm dao đẵn gốc. Thấy cây rung chuyển, Tấm hỏi :
+\n\n<br></br>
+- Dì làm gì dưới gốc thế ?
+\n\n<br></br>
+- Gốc cau lắm kiến, dì đuổi kiến cho nó khỏi lên đốt con.
+\n\n<br></br>
+Nhưng Tấm chưa kịp xé cau thì cây cau đã đổ. Tấm ngã lộn cổ xuống ao chết. Mụ dì ghẻ vội vàng lột áo quần của Tấm cho con mình mặc vào cung nói dối với vua rằng Tấm không may bị rơi xuống ao chết đuối, nay đưa em vào để thế chị. Vua nghe nói trong bụng không vui, nhưng không biết phải làm thế nào cả.
+\n\n<br></br>
+Lại nói chuyện Tấm chết hóa thành chim Vàng anh, chim bay một mạch về kinh đến vườn ngự. Thấy Cám đang giặt áo cho vua ở giếng, Vàng anh dừng lại trên cành cây, bảo nó:
+\n\n<br></br>
+- Phơi áo chồng tao, phơi lao phơi sào, chớ phơi bờ rào, rách áo chồng tao.
+\n\n<br></br>
+Rồi chim Vàng anh bay thẳng vào cung rồi đậu ở cửa sổ, hót lên rất vui tai. Vua đi đâu, chim bay đến đó. Vua đang nhớ Tấm không nguôi, thấy chim quyến luyến theo mình, vua bảo:
+\n\n<br></br>
+- Vàng ảnh vàng anh, có phải vợ anh, chui vào tay áo.
+\n\n<br></br>
+Chim vàng anh bay lại đậu vào tay vua rồi rúc vào tay áo. Vua yêu quý vàng anh quên cả ăn ngủ. Vua sai làm một cái lồng bằng vàng cho chim ở. Từ đó, ngày đêm vua chỉ mải mê với chim, không tưởng đến Cám.
+\n\n<br></br>
+Cám vội về mách mẹ. Mẹ nó bảo cứ bắt chim làm thịt ăn rồi kiếm điều nói dối vua. Trở lại cung vua, nhân lúc vua đi vắng, Cám bắt chim làm thịt nấu ăn rồi vứt lông chim ở ngoài vườn.
+\n\n<br></br>
+Lông chim vàng anh chôn ở vườn hoá ra hai cây xoan đào. Khi vua đi chơi vườn ngự, cành lá của chúng sà xuống che kín thành bóng, như hai cái lọng. Vua thấy cây đẹp rợp bóng, sai lính hầu mắc vọng vào hai cây rồi nằm chơi hóng mát. Khi vua đi khỏi thì cành cây lại vươn thẳng trở lại. Từ đó, không ngày nào Vua không ra nằm hóng mát ở hai cây xoan đào.
+\n\n<br></br>
+Cám biết chuyện ấy lại về nhà mách mẹ. Mẹ nó bảo, cứ sai thợ chặt cây làm khung cửi rồi kiếm điều nói dối vua. Về đến cung, nhân một hôm gió bão, Cám sai thợ chặt cây xoan đào lấy gỗ đóng khung cửi. Thấy cây bị chặt, vua hỏi thì Cám đáp:
+\n\n<br></br>
+- Cây bị đổ vì bão, thiếp sai thợ chặt làm khung cửi để dệt áo cho bệ hạ.
+\n\n<br></br>
+Nhưng khi khung cửi đóng xong. Cám ngồi vào dệt lúc nào cũng nghe thấy tiếng khung cửi rủa mình :
+\n\n<br></br>
+   Cót ca cót két
+\n<br></br>
+   Lấy tranh chồng chị.
+\n<br></br>
+   Chị khoét mắt ra
+\n\n<br></br>
+Thấy vậy Cám sợ hãi, vội về nhà mách mẹ. Mẹ nó bảo đốt quách khung cửi, rồi đem tro đi đổ cho rõ xa để được yên tâm. Về đến cung, Cám làm như lời mẹ nói. Nó đem tro đã đốt đi đổ ở lề đường cách xa hoàng cung.
+\n\n<br></br>
+Đống tro bên đường lại mọc lên một cây thị cao lớn, cành lá xum xuê. Đến mùa có quả, cây thị chỉ đậu được có một quả, nhưng mùi thơm ngát tỏa ra khắp nơi. Một bà lão hàng nước gần đó có một hôm đi qua dưới gốc, ngửi thấy mùi thơm, ngẩng đầu nhìn lên thấy quả thị trên cành cao, bèn giơ bị ra nói lẩm bẩm:
+\n\n<br></br>
+- Thị ơi thị à, rụng vào bị bà, bà để bà ngửi chứ bà không ăn.
+\n\n<br></br>
+Bà lão nói vừa dứt lời, thì quả thị rụng ngay xuống đúng vào bị. Bà lão nâng niu đem về nhà cất trong buồng, thỉng thoảng lại vào ngắm nghía và ngửi mùi thơm.
+\n\n<br></br>
+Ngày nào bà lão cũng đi chợ vắng. Từ trong quả thị chui ra một cô gái thân hình bé nhỏ như ngón tay, nhưng chỉ trong chớp mắt đã biến thành Tấm. Tấm vừa bước ra đã cầm lấy chổi quét dọn nhà cửa sạch sẽ, rồi đi vo gạo thổi cơm, hái rau ở vườn nấu canh giúp bà hàng nước. Đoạn Tấm lại thu hình bé nhỏ như cũ rồi chui vào quả thị. Lần nào đi chợ về, bà lão cũng thấy nhà cửa ngăn nắp, cơm ngon, canh ngọt sẵn sàng, thì lấy làm lạ.
+\n\n<br></br>
+Một hôm bà hàng nước giả vờ đi chợ, đến nửa đường lại lén trở về, rình ở bụi cây sau nhà. Trong khi đó, Tấm từ quả thị chui ra rồi cũng làm việc như mọi lần. Bà lão rón rén lại nhìn vào khe cửa. Khi thấy cô gái xinh đẹp thì bà mừng quá, bất thình lình xô cửa vào ôm choàng lấy Tấm, đoạn xé vụn vỏ thị.
+\n\n<br></br>
+Từ đó Tấm ở với bà hàng nước, hai người thương nhau như hai mẹ con. Hàng ngày Tấm giúp bà lão các việc thổi cơm, nấu nước, gói bánh, têm trầu để cho bà bán hàng.
+\n\n<br></br>
+Một hôm vua đi chơi ra khỏi hoàng cung, Thấy có quán nước bên đường sạch sẽ, bèn ghé vào. Bà lão mang trầu nước dâng lên vua. Thấy trầu têm cánh phượng, vua sực nhớ tới trầu vợ mình têm ngày trước cũng y như vậy, liền hỏi :
+\n\n<br></br>
+- Trầu này ai têm?
+\n\n<br></br>
+- Trầu này con gái lão têm - bà lão đáp.
+\n\n<br></br>
+- Con gái của bà đâu, gọi ra đây cho ta xem mặt.
+\n\n<br></br>
+Bà lão gọi Tấm ra. Tấm vừa xuất hiện, vua nhận ra ngay vợ mình ngày trước, có phần trẻ đẹp hơn xưa. Vua mừng quá, bảo bà lão hàng nước kể lại sự tình, rồi truyền cho quân hầu đưa kiệu rước Tấm về cung.
+\n\n<br></br>
+Cám Thấy Tấm trở về và được vua yêu thương như xưa, thì không khỏi ghen tỵ. Một hôm, Cám hỏi chị :
+\n\n<br></br>
+- Chị Tấm ơi, chị Tấm! Chị làm thế nào mà đẹp thế ?
+\n\n<br></br>
+Tấm không đáp, chỉ hỏi lại:
+\n\n<br></br>
+- Có muốn đẹp không để chị giúp !
+\n\n<br></br>
+Cám bằng lòng ngay. Tấm sai quân hầu đào một cái hố sâu và đun một nồi nước sôi. Tấm bảo Cám xuống hố rồi sai quân hầu dội nước sôi vào hố. Cám chết. Tấm sai đem xác làm mắm bỏ vào chĩnh gửi cho mụ dì ghẻ, nói là quà của con gái mụ gửi biếu. Mẹ Cám tưởng thật, lấy mắm ra ăn, bữa nào cũng nức nở khen ngon. Một con quạ ở đâu bay đến đậu trên nóc nhà kêu rằng:
+\n\n<br></br>
+- Ngon ngỏn ngòn ngon ! Mẹ ăn thịt con, có còn xin miếng.
+\n\n<br></br>
+Mẹ Cám giận lắm, chửi mắng ầm ĩ rồi vác sào đuổi quạ. Nhưng đến ngày ăn gần hết, dòm vào chĩnh, mụ thấy đầu lâu của con thì kinh hoàng lăn đùng ra chết.
+        
+    </string>
+    <string name="BaChuaTuyet">
+         Ngày xưa có một con quỷ xấu xí và hung tợn. Quỷ có một tấm gương rất kì dị. Soi vào đó, cái tốt sẽ méo mó đi, còn cái xấu xa thì nhân lên gấp bội.
+\n
+Một hôm, quỷ mang tấm gương bay lên trời định soi vào Thượng Đe và các thiên thần. Nhưng khi quỷ tới gần cổng trời, tấm gương đột nhiên vỡ tan thành muôn vàn mảnh vụn.
+\n
+Những mảnh vỡ này thật khủng khiếp! Người nào không may bị nó bắn vào tim hay vào mắt thì sẽ trở nên lạnh lùng, vô cảm.
+\n
+Thật bất hạnh! Trong không trung còn vô số những mảnh vỡ ấy đang bay lơ lửng. Hôm ấy có một đôi bạn rất thân đang ngồi đọc sách bên cửa sổ. Cậu bé tên là Kay còn cô bé là Giéc-đa. Giéc- đa có giọng đọc êm ái và du dương nên Kay rất thích được nghe cô bé đọc sách.
+\n
+Đang ngồi, Kay bỗng khuỵu ngã và kêu lên:
+\n
+– ái, Giéc-đa ơi, sao mình thấy đau nhói ở tim và mắt thế này!
+\n
+Thật tội nghiệp! Cậu bé khồng hề biết rằng mắt và tim mình đã bị những mảnh gương quỷ bắn vào. Từ lúc đó, Kay không muốn chơi với ai nữa. Cậu bé luôn tìm cách xa lánh mọi người, kể cả Giéc-đa. Rồi một ngày mùa đông tuyết rơi dày đặc, Kay đã rời nhà đi theo bà Chúa Tuyết trên một cỗ xe lớn màu trắng.
+\n
+Bà Chúa Tuyết đã hồn lên trán Kay khiến cậu quên hết tất cả. Rồi bà đưa Kay lên thật cao và thật xa. Chẳng ai biết cậu bé đi đâu. Người ta đồn rằng Kay đã ngã xuống sông và bị dòng nước cuốn đi. Giéc-đa buồn lắm!
+\n
+Mùa đông lạnh lẽo đã trôi qua và mùa xuân ấm áp đã quay lại. Cô bé hỏi tia nắng và những đàn chim đi tránh rét trở về, nhưng không có tin tức gì của Kay. Giéc-đa đem đôi giày đỏ mà cô bé rất thích ra bờ sông. Cô bé hỏi dòng sông:
+\n
+– Sông ơi, có phải sông đã lấy mất Kay yêu quý của tôi không? Hãy trả bạn ấy cho tôi! Tôi sẽ tặng sông đôi giày đỏ này.
+\n
+Giéc-đa thả đôi giày xuống nước. Nhưng sông trả lại đôi giày cho cô bé vì sông có bắt Kay đâu. Giéc-đa tưởng mình thả giày chưa đúng chỗ nên sông không nhận. Cô bé liền bước xuống một chiếc xuồng đang đậu sát bờ để thả giày ra xa hơn. Chiếc xuồng chòng chành rồi bị tuột dây buộc, từ từ trôi đi, Giéc-đa sợ hãi oà lên khóc.
+\n
+Cô bé không biết làm cách nào để đưa được chiếc xuồng vào bờ, đành cứ mặc cho nó trôi theo dòng nước. Khi xuồng trôi đến gần một ngôi nhà bên bờ sông, Giéc-đa vội cất tiếng kêu cứu. Nghe tiếng kêu, một bà già từ trong nhà chạy ra.
+\n
+Bà vừa giơ gậy lên, chiếc thuyền đã dạt ngay vào bến. Bà già đưa cô bé tội nghiệp vào nhà. Bà bày ra bàn rất nhiều món ăn ngon để cô bé đang lả người đi vì đói được ăn uống thoả thích.
+\n
+Đã từ lâu, bà già phải sống cô đơn một mình, bà rất mừng khi được gặp Giéc-đa. Bà muốn giữ cô bé ở lại, nên tìm đủ mọi cách để cô bé được sống đầy đủ và vui vẻ.
+\n
+Một hôm, Giéc-đa dạo chơi trong vườn. Cô bé nhìn thấy những bông hoa hồng tươi thắm, loài hoa mà cả Giéc-đa và Kay đều thích. Những bồng hồng ấy nhắc nhở cô bé nhớ đến bạn. Giéc-đa khẽ hỏi hoa hồng:
+\n
+– Hoa ơi, hoa có biết Kay đang ở đâu không?
+\n
+Các bông hồng đều lắc đầu. Giéc- đa buồn lắm. Cô bé vụt chạy ra khỏi vườn, quyết đi tìm Kay. Giéc-đa đi mãi, cô bé đã qua bao nhiêu làng mạc, hỏi thăm bao nhiêu người, nhưng vẫn chưa tìm thấy Kay.
+\n
+Rồi mùa đông ào tới, tuyết rơi phủ trắng khắp nơi. Giéc-đa vừa đói, vừa mệt, dừng lại nghỉ bên một cây to đã rụng hết lá. Trên cây có vợ chồng anh Quạ đỏm dáng cũng đang đứng nghỉ.
+\n
+Quạ hỏi:
+\n
+– Cô bé ơi, cô đi đâu giữa mùa đông giá lạnh thế này?
+\n
+Giéc-đa kể cho Quạ nghe chuyện của Kay. Quạ bảo:
+\n
+– Tôi biết có một cậu bé giống như Kay của cô. Ta thử đến đó xem sao.
+\n
+Vợ chồng anh Quạ bay trước dẫn đường, đưa Giéc-đa đến một toà cung điện nguy nga. Nơi đó có một căn phòng sang trọng và ấm áp. Giéc-đa bước vào căn phòng ấy và gặp một cô bé xinh xắn có mái tóc vàng óng, cùng một cậu bé giống hệt Kay.
+\n
+Nhưng họ đều là công chúa và hoàng tử của xứ sở tươi đẹp mà Giéc- đa vừa đặt chân đến.
+\n
+Hai người bạn mới đã khóc khi nghe vợ chồng anh Quạ kể về hành trình tìm bạn của Giéc-đa. Họ tặng ngay cô bé cỗ xe trượt tuyết bằng vàng cùng mọi vật dụng cần thiết để cô tiếp tục lên đường.
+\n
+Vì muốn sớm tìm được bạn nên Giéc-đa đi suốt đêm ngày không nghỉ. Một đêm kia, cỗ xe đang lao vun vút thì bị một toán cướp xông ra chặn đường.
+\n
+Lũ cướp loá mắt khi nhìn thấy cỗ xe vàng, chúng bắt người đánh xe quang vào rừng, đem con ngựa xẻ thịt nướng ăn. Còn Giéc-đa bị chúng lôi khỏi xe, bắt quỳ trên tuyết lạnh.
+\n
+Khi mụ tướng cướp vừa kề con dao sáng loáng vào cổ Giéc-đa, thì con gái mụ chạy đến níu giữ tay mẹ lại:
+\n
+– Mẹ đừng giết cô bé này! Hãy để cô ta làm bạn với con.
+\n
+Rồi con gái mụ tướng cướp kéo tay Giéc-đa lôi xềnh xệch về phòng.
+\n
+Từ hôm đó, Giéc-đa không được đi đâu, suốt ngày phải quanh quẩn chơi với con gái mụ tướng cướp. Thấy Giéc- đa không vui, cô ta gặng hỏi và Giéc- đa đã đem chuyện của Kay kể cho cô ta nghe.
+\n
+Bỗng mấy con chim bồ câu đang đậu trong phòng nghe thấy câu chuyện, cùng kêu lên:
+\n
+– Cô bé ơi, cách đây ít ngày, chúng tôi có gặp Kay ngồi trên xe của bà Chúa Tuyết đấy.
+\n
+– Thế các bạn có biết bà Chúa Tuyết ở đâu không? – Giéc-đa mừng rỡ hỏi.
+\n
+– Cô bé cứ hỏi bác Tuần Lộc, bác ấy biết rất rõ nơi ở của bà Chúa Tuyết – Bầy chim ríu rít trả lời.
+\n
+Con gái mụ tướng cướp rất xúc động trước tình bạn của Giéc-đa. Cô ta an ủi bạn:
+\n
+– Cậu đừng lo, sáng mai tớ sẽ sai Tuần Lộc chở cậu đi.
+\n
+Hôm sau, hai cô bé dậy rất sớm. Con gái mụ tướng cướp chuẩn bị cho Giéc-đa đủ mọi thứ, rồi đỡ cô bé leo lên lưng Tuần Lộc.
+\n
+Cô còn ghé tai Tuần Lộc dặn dò rất nhiều. Chú ta gật đầu và chở Giéc-đa lao vút đi.
+\n
+Tuần Lộc băng qua rừng núi, qua những cánh đồng mênh mông phủ đầy tuyết trắng. Một ngày kia, Tuần Lộc ghé vào nhà bà cụ Tốt Bụng.
+\n
+Bà cụ chỉ đường cho Tuần Lộc đi tiếp và còn viết thư nhờ bà bạn Thông Thái ở tít trên một đỉnh núi Tuyết giúp đỡ Giéc-đa.
+\n
+Tuần Lộc và Giéc-đa lại tiếp tục cuộc hành trình.
+\n
+Đường đi mỗi ngày một khó khăn vất vả. Vách núi Tuyết dựng đứng, Tuần Lộc phải ráng sức nhích từng tí một. Bão tuyết dữ dội như muốn chôn vùi đôi bạn trong tuyết lạnh. Phải chật vật lắm, Tuần Lộc mới đưa Giéc-đa lên được đỉnh núi và tìm đến chỗ bà cụ Thông Thái.
+\n
+Bà cụ Thông Thái chỉ đường cho Giéc-đa và Tuần Lộc đi tiếp. Bà còn ân cần căn dặn:
+\n
+– Các cháu còn phải vượt qua rất nhiều trở ngại mới tìm thấy được Kay. Cháu phải tìm cách lấy hết những mảnh gương quỷ trong người cậu ấy ra thì cậu ấy mới thoát khỏi bùa độc. Khi nào gặp nguy hiểm, cháu nhớ đọc kinh cầu nguyện. Chúa nhân từ sẽ giúp đỡ cháu.
+\n
+Nghe bà cụ Thông Thái nói xong, Tuần Lộc và Giéc-đa vội vã lên đường ngay. Gần đến nơi bà Chúa Tuyết ở, họ gặp phải lũ quái vật tuyết khổng lồ. Chúng chồm lên như muốn nuốt gọn cả Giéc-đa và Tuần Lộc.
+\n
+Nhớ lời bà cụ Thông Thái dặn, Giéc-đa thành kính đọc kinh cầu nguyện. Mỗi tiếng cô bé đọc lên là một thiên thần xuất hiện. Các thiên thần cầm vũ khí lao vào tấn công lũ quái vật tuyết. Trong chốc lát, đám quái vật đã tan tành thành những hạt tuyết li ti.
+\n
+Không còn bị đám quái vật chặn đường, Giéc-đa vội vã giục Tuần Lộc đi nhanh tới toà lâu đài bằng băng của bà Chúa Tuyết.
+\n
+Trong toà lâu đài băng giá đó, Kay đang tím tái vì rét. Cậu bé ngồi bất động trước một đống những mảnh băng vụn và không hề biết Giéc-đa đang đứng ngay bên cạnh.
+\n
+Giéc-đa thương Kay quá, nước mắt lăn dài trên má cô bé rồi nhỏ xuống ngực Kay. Những giọt nước mắt đầy tình yêu thương ấy thấm vào tận trái tim lạnh lùng của cậu bé, làm tan biến mảnh gương quỷ. Trái tim Kay ấm áp trở lại và cậu bé bật khóc. Mảnh gương quỷ trong mắt cậu bị nước mắt cuốn trôi đi, và Kay nhận ra Giéc-đa…
+\n
+Cậu bé như bừng tỉnh cơn mơ, xúc động nói với bạn:
+\n
+– Ôi Giéc-đa, mình lạnh quá! Mình ước ao nhanh chóng được trở về ngôi nhà ấm áp và quen thuộc đầy hương hoa hồng. Mình sẽ lại được ngồi bên cửa sổ nghe bạn đọc sách!
+\n
+Khi bà Chúa Tuyết quay về, thấy Giéc-đa và Kay ra khỏi toà lâu đài băng giá. Bà biết rằng tình bạn của Giéc-đa đã giúp Kay thoát khỏi bùa phép của quỷ. Bà đành để đôi bạn rời khỏi xứ sở đầy băng tuyết lạnh lẽo trở về quê hương.
+\n
+Lúc này mùa đông đã trôi qua, và mùa xuân đã trở lại.
+\n
+Khắp nơi cây cối đâm chồi nảy lộc xanh tươi mơn mởn. Trăm hoa đua nở rực rỡ dưới ánh nắng mặt trời ấm áp. Giéc-đa và Kay như được chắp cánh, chẳng mấy chốc đôi bạn đã trở về nhà. Cả nhà mừng rỡ mở tiệc ăn mừng.
+\n
+Trong bữa tiệc ấy, bạn bè của Kay và Giéc-đa cùng cất cao tiếng hát ca ngợi tình bạn cao quý và đẹp đẽ.
+    </string>
+
+    <string name="QuaBauTien">Ngày xửa, ngày xưa có một chú bé con nhà nghèo, nhưng vô cùng ngoan ngoãn và tốt bụng. Chú luôn luôn sẵn lòng giúp đỡ, quan tâm tới mọi người, và chăm sóc mọi vật xung quanh mình. Chú bé được các loài chim yêu quý lắm. Vì thế cứ mỗi độ xuân về, chim chóc lại ríu rít kéo nhau tới làm tổ, hót vang quanh nhà chú bé.
+\n
+Một hôm có một con Cáo ở đâu mà tới bắt chim Én ở đầu nhà chú bé. Con Én non nớt bị rơi xuống đất gãy cánh. Chú bé vội lao ra cứu con chim. Chú bé ôm ấp, vỗ về con Én nhỏ. Chú quyết định mang chú chim Én tội nghiệp về nhà chăm sóc, và làm cho Én một cái tổ khác và hàng ngày chăm cho Én ăn, hết mực thương yêu và quan tâm đến Én nhỏ. Nhờ sự chăm sóc tận tình của chú bé, Én đã dần dần lành vết thương
+\n
+Cuối thu, trời lạnh dần. Hằng ngày khi nhìn lên trời thấy từng đàn Én hối hả bay đi tránh rét ở phương Nam, Én phân vân nửa muốn bay theo đàn, nửa lại lưu luyến không nỡ rời chú bé. Hiểu được lòng Én, chú bé âu yếm bảo: "Én cứ bay theo đàn đi đến phương Nam ấm áp đi. Đến mùa xuân Én lại trở về với anh". Nói xong chú bé tung Én lên trời. Én nhỏ chấp chới bay lên nền trời xanh. Nó nhập vào một đàn Én lớn bay về những xứ sở ấp áp ở phương Nam, lòng lưu luyến chú bé.
+\n
+Mùa xuân tươi đẹp đã tới. Én tìm về ngôi nhà đơn sơ nhưng đầm ấm tình thương của chú bé. Nó kêu lên thành tiếng mừng vui khi thấy chú bé đang ngồi đan sọt giữa sân. Đôi cánh Én chao liệng sà xuống và Én thả trước mặt chú bé một hạt bầu rất to. Chú bé chọn một đám đất tốt trước nhà, vùi hạt bầu xuống đất.
+\n
+Hằng ngày chú bé ra tưới nước chăm sóc và thăm đám đất. Chẳng bao lâu hạt đã nảy mầm thành cây bầu. Cây bầu lớn nhanh như thổi, ra hoa, kết quả. Nhưng lạ thay, cây bầu rất tươi tốt nhưng chỉ ra có mỗi một quả. Hàng ngày chú bé vẫn yêu quý chăm sóc cây bầu.
+\n
+Cứ thế, nhờ sự chăm sóc tận tình của chú bé, quả bầu ngày càng lớn lên. Quả bầu cứ to mãi to mãi, to hơn nhiều các quả bầu bình thường cao to hơn cả chú bé. Chú bé vui lắm!
+\n
+Đến mùa thu hoạch, chú bé muốn đem quả bầu tiên về nhà. Nhưng quả bầu to quá, cả nhà chú bé phải cùng nhau khiêng mới đưa được về nhà. Ai lấy cũng đều vui.
+\n
+Khi bổ quả bầu ra, mọi người rất ngạc nhiên... Ôi! Thật kỳ diệu! Trong quả bầu đầy vàng bạc, châu báu nhiều không kể xiết. Gia đình chú bé vui mừng gọi bà con hàng xóm láng giềng sang, và chia sẻ cùng họ số vàng bạc, châu báu có trong ruột quả bầu tiên.
+\n
+Trong làng có một tên địa chủ tham lam, độc ác. Hắn nghe được chuyện ấy. Hắn cũng muốn được chim Én cho nhiều hạt bầu tiên. Hắn bèn tìm cách bắt một con chim Én con rồi bẻ gãy cánh. Sau đó hắn giả vờ thương xót con Én rồi đem về nuôi.
+\n
+Đến mùa thu, khi nhìn lên trời thấy đàn Én đầu tiên xuất hiện, hắn vội vàng ném con Én lên trời và bảo: "Bay đi Én con! Mau đi kiếm hạt bầu tiên về đây cho ta!" Con Én khốn khổ chập chững bay đi.
+\n
+        Kỳ diệu thay mùa Xuân năm sau nó cũng trở về và đem theo một hạt bầu. Lão địa chủ tham lam hí hửng lắm. Lão nghĩ bụng "Phen này giàu to rồi !!"
+\n
+        Tên địa chủ hí hửng sai người đem gieo và ngày đêm canh giữ. Hắn bắt người hầu tong nhà ngày đêm chăm sóc quả bầu, không được lơi lỏng. Quả bầu cũng lớn nhanh như thổi, to dần, to dần...
+    \n
+    Khi quả bầu đã già, hắn bảo mọi người khiêng về. Quả bầu thật khổng lồ, phải mấy người thay phiên nhau mới khiêng nổi về nhà hắn.
+    \n
+    Khi đã khiêng quả bầu về nhà, tên địa chủ tham lam đuổi tất cả mọi người ra ngoài. Hắn đóng cửa lại rồi một mình hắn bổ quả bầu tiên, hí hửng với số vàng bạc châu báu sắp có.
+    \n
+    Quả bầu vừa được bổ ra, vàng bạc châu báu chẳng thấy đâu, chỉ có rắn rết. Rắn rết từ trong quả bầu thi nhau xông ra bò lổm ngổm khiến lãi địa chủ hoảng sợ, ngã ngửa người ra và bị rắn rết cắn chết. Thật đáng đời kẻ tham lam độc ác
+
+    </string>
+
+    <string name="BaChiecRiu">
+         Ngày xửa ngày xưa, ở một ngôi làng nọ, có một anh chàng tiều phu nghèo, cha mẹ anh bệnh nặng nên qua đời sớm, anh phải sống mồ côi cha mẹ từ nhỏ và tài sản của anh chỉ có một chiếc rìu. Hàng ngày anh phải xách rìu vào rừng để đốn củi bán để lấy tiền kiếm sống qua ngày. Ngay ở cạnh bìa rừng có một con sông nước chảy rất xiết, ai đó lỡ trượt chân rơi xuống sông thì rất khó bơi vào bờ.
+\n
+Vào một hôm nọ, như thường ngày chàng tiều phu vác rìu vào rừng để đốn củi, trong lúc đang chặt củi cạnh bờ sông thì chẳng may chiếc rìu của chàng bị gãy cán và lưỡi rìu văng xuống sông. Vì dòng sông nước chảy quá xiết nên mặc dù biết bơi nhưng anh chàng vẫn không thể xuống sông để tìm lưỡi rìu. Thất vọng anh chàng tiều phu ngồi khóc, vừa khóc anh chàng vừa than thở cho số phận hẩm hiu của mình.
+\n
+Bỗng từ đâu đó có một ông cụ tóc trắng bạc phơ, râu dài, đôi mắt rất hiền từ xuất hiện trước mặt chàng, ông cụ nhìn chàng tiêu phu và hỏi:
+\n
+- Chào con, con đang có chuyện gì mà ta thấy con khóc và buồn bã như vậy?
+\n
+Anh chàng tiều phu trả lời ông cụ râu tóc bạc phơ đó:
+\n
+- Thưa cụ, bố mẹ con mất sớm, con phải sống mồ côi từ nhỏ, gia cảnh nhà cháu rất nghèo, tài sản duy nhất của con là chiếc rìu sắt mà bố mẹ cháu trước lúc qua đời để lại. Có chiếc rìu đó cháu còn vào rừng đốn củi kiếm sống qua ngày, giờ đây nó đã bị rơi xuống sông, con không biết lấy gì để kiếm sống qua ngày nữa. Vì vậy, con buồn lắm cụ ạ!
+\n
+ Ông cụ liền đáp lời chàng tiều phu:
+\n
+- Ta tưởng chuyện gì lớn, cháu đừng khóc nữa, để ta lặn xuống sông lấy hộ cháu chiếc rìu lên.
+\n
+Dứt lời, ông cụ lao mình xuống dòng sông đang chảy rất xiết. Một lúc sau, ông cụ ngoi lên khỏi mặt nước tay cầm một chiếc rìu bằng bạc sáng loáng và hỏi anh chàng tiều phu nghèo:
+\n
+- Đây có phải lưỡi rìu mà con đã làm rơi xuống không ?
+\n
+ Anh chàng tiều phu nhìn lưỡi rìu bằng bạc thấy không phải của mình nên anh lắc đầu và bảo ông cụ:
+\n
+- Không phải lưỡi rìu của con cụ ạ, lưỡi rìu của con bằng sắt cơ.
+\n
+Lần thứ hai, ông cụ lại lao mình xuống dòng sông chảy xiết để tìm chiếc rìu cho chàng tiều phu. Một lúc sau, ông cụ ngoi lên khỏi mặt nước tay cầm chiếc rìu bằng vàng và hỏi chàng tiều phu:
+\n
+- Đây có phải là lưỡi rìu mà con đã sơ ý làm rơi xuống sông không?
+\n
+Anh chàng tiều phu nhìn lưỡi rìu bằng vàng sáng chói, anh lại lắc đầu và bảo:
+\n
+- Không phải là lưỡi rìu của con cụ ạ!
+\n
+ Lần thứ ba, ông cụ lại lao mình xuống sông và lần này khi lên ông cụ cầm trên tay là chiếc rìu bằng sắt của anh chàng tiều phu đánh rơi. Ông cụ lại hỏi:
+\n
+- Vậy đây có phải là lưỡi rìu của con không!
+\n
+Thấy đúng là lưỡi rìu của mình rồi, anh chàng tiều phu reo lên sung sướng:
+\n
+- Vâng cụ, đây đúng là lưỡi rìu của con, con cảm ơn cụ đã tìm hộ con lưỡi rìu để con có cái đốn củi kiếm sống qua ngày.
+\n
+Ông cụ đưa cho anh chàng tiều phu lưỡi rìu bằng sắt của anh và khen:
+\n
+ - Con quả là người thật thà và trung thực, không hề ham tiền bạc và lợi lộc. Nay ta tặng thêm cho con hai lưỡi rìu bằng vàng và bạc này. Đây là quà ta tặng con, con cứ vui vẻ nhận.
+\n
+Anh chàng tiều phu vui vẻ đỡ lấy hai lưỡi rìu mà ông cụ tặng và cảm tạ. Ông cụ hóa phép và biến mất. Lúc đó anh chàng tiều phu mới biết rằng mình vừa được bụt giúp đỡ.
+    </string>
+
+
+</resources>
